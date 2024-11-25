@@ -9,7 +9,8 @@ This project contains a collection of containers including:
 By default it will also contain a set of example shells.
 
 # How to use
-First of all, clone this repository.
+In order to use this repository, you need to have [Docker Engine](https://docs.docker.com/engine/install/) installed. 
+Next, simply clone this repository to your machine.
 
 ## First use
 It is recommended to first pull the needed docker images using
